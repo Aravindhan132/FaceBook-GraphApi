@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Coding Mart Task</string>
+    <string name="facebook_app_id">956700634502822</string>
+    <string name="fb_login_protocol_scheme">fb1853814611604094</string>
+    <string name="title_activity_posts">Posts</string>
+
+</resources>
